@@ -1,3 +1,4 @@
+//Search Key in a BST
 class Node
 {
 	int key;
